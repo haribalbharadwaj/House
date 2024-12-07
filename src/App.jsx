@@ -5,7 +5,7 @@ import Topbar from "./components/Topbar";
 import Overview from "./components/Overview";
 import TrafficChart from "./components/TrafficChart";
 import Analytics from "./components/Analytics";
-import SalesOverview from "./components/SalesOverview";
+import SalesOverview from "./components/Salesoverview";
 import "./App.css";
 
 const App = () => {
